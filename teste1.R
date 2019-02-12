@@ -1,5 +1,3 @@
-#ainda n sei oq ta rolando
-
 tal <- function(x,y) {
   if (x>y) {res <- x+y}
   else {res <- x*y}
@@ -7,5 +5,4 @@ tal <- function(x,y) {
 }
 
 #ok
-#new line
-#neweer line
+
